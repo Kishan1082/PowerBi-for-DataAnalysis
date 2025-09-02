@@ -30,7 +30,7 @@ To view or modify the report:
 
 ## 🔧 Tools Used
 - Microsoft Power BI Desktop
-- Sample sales dataset (Plant Co. 2023)
+- Sample sales dataset (Plant_DTS.xlsx)
 
 ## 📈 Use Cases
 - Sales performance analysis  
